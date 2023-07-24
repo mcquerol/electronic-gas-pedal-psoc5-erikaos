@@ -1,0 +1,27 @@
+--------------- Rebuild Started: 07/24/2023 17:32:43 Project: main.c, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I.\source\asw -I.\source\bsw -I.\source\bsw\TraceRecorder -I.\source\bsw\TraceRecorder\config -I.\source\bsw\TraceRecorder\include -I.\source\bsw\TraceRecorder\streamport -I.\source\bsw\LabBoard -I.\source\bsw\Services -I.\source\bsw\tft -I.\source\bsw\tft\fonts -I.\source\rte -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/main.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c source\asw\main.c -o .\CortexM3\ARM_GCC_541\Debug\main.o
+In file included from source\asw\tsk_io.h:13:0,
+                 from source\asw\main.c:15:
+.\source\rte/rte_types.h:46:0: warning: "GetResource" redefined
+     #define GetResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:99,
+                 from source\asw\main.c:12:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:136:0: note: this is the location of the previous definition
+ #define GetResource               EE_oo_GetResource
+ ^
+In file included from source\asw\tsk_io.h:13:0,
+                 from source\asw\main.c:15:
+.\source\rte/rte_types.h:47:0: warning: "ReleaseResource" redefined
+     #define ReleaseResource(A)
+ ^
+In file included from Generated_Source\PSoC5/ErikaOS_ee_api.inc:73:0,
+                 from Generated_Source\PSoC5/ErikaOS_ee.h:129,
+                 from Generated_Source\PSoC5/project.h:99,
+                 from source\asw\main.c:12:
+Generated_Source\PSoC5/ErikaOS_ee_oo_api.inc:140:0: note: this is the location of the previous definition
+ #define ReleaseResource           EE_oo_ReleaseResource
+ ^
+--------------- Rebuild Succeeded: 07/24/2023 17:32:43 ---------------
