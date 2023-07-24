@@ -1,0 +1,6 @@
+C:\Users\Mateo C. Querol\OneDrive\University\Darmstadt\Embedded Architecture and Applications\Labs\Lab 1 - Electronic Gas Pedal\ElectronicGasPedal.cydsn\ElectronicGasPedal.cyprj|2c48fc30-a0bb-4c4f-973c-0179cd0cb7bb
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b01a0905-3524-4fd1-a586-bec8fd8c7ffc
+C:\Users\Mateo C. Querol\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|eda5ecb0-67d5-419f-91cf-e13185f94d43
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|486b71a4-542a-4027-be24-618f82ad488e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|01fc2e2a-4bd1-40f3-9fa5-b8ade249cca5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|42e1177a-b8bf-439e-a726-5b0aca2798e5
