@@ -14,4 +14,4 @@
 *.s linguist-language=C
 
 # Catch-all: Exclude everything else
-* linguist-detectable=false
+* linguist-detectable=C
