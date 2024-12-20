@@ -1,9 +1,9 @@
 # Allow C files
-*.c linguist-detectable=true
-*.h linguist-detectable=true
+*.c linguist-detectable=C
+*.h linguist-detectable=C
 
 # Allow HTML files
-*.html linguist-detectable=true
+*.html linguist-detectable=HTML
 
 # Convert other file types to C
 *.pwn linguist-vendored
