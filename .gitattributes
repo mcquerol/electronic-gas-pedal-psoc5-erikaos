@@ -10,8 +10,8 @@
 *.amx linguist-language=C
 *.cpp linguist-language=C
 *.cs linguist-language=C
-*.asm linguist-language=C
+*.asm linguist-vendored
 *.s linguist-language=C
 
 # Catch-all: Exclude everything else
-* linguist-detectable=C
+* linguist-detectable=false
