@@ -1,5 +1,17 @@
-*.log linguist-vendored
-*.hex linguist-vendored
-*.out linguist-vendored
-*.map linguist-vendored
-*.o linguist-vendored
+# Allow C files
+*.c linguist-detectable=true
+*.h linguist-detectable=true
+
+# Allow HTML files
+*.html linguist-detectable=true
+
+# Convert other file types to C
+*.pwn linguist-language=C
+*.amx linguist-language=C
+*.cpp linguist-language=C
+*.cs linguist-language=C
+*.asm linguist-language=C
+*.s linguist-language=C
+
+# Catch-all: Exclude everything else
+* linguist-detectable=false
