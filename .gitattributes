@@ -3,7 +3,7 @@
 *.h linguist-detectable=true
 
 # Allow HTML files
-*.html linguist-detectable=true
+*.html linguist-detectable=C
 
 # Convert other file types to C
 *.pwn linguist-language=C
