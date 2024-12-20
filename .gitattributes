@@ -1,2 +1,5 @@
-*.c linguist-detectable=true
-*.* linguist-detectable=false
+*.log linguist-vendored
+*.hex linguist-vendored
+*.out linguist-vendored
+*.map linguist-vendored
+*.o linguist-vendored
